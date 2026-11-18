@@ -16,11 +16,20 @@ on first launch. See the installation instructions below before downloading.
 
 ## Animated scenes and video wallpapers
 
-- **Six built-in scenes:** Aurora, Tides, Orbit, Starfield, Rain, and Clock.
-- **Native video wallpapers:** add your own local MP4, MOV, or M4V to the Redwood
-  or Golden Coast slot. Afterglow loops the full video on every display, with no
-  photo-animation filter or particle overlay. Each slot has a poster preview;
-  cinematic forest and Monet-style coastal video clips are not included yet.
+- **Three full-motion video wallpapers, included:** Redwood, a forest creek;
+  Golden Coast, an animated impressionist California sunset with sailboats;
+  and Willow Pond, a cozy woodland cottage with ducks, rain, and rippling water.
+- **Six procedural scenes:** Aurora, Tides, Orbit, Starfield, Rain, and Clock.
+- **Your own videos:** optionally replace a video scene with a local MP4, MOV,
+  or M4V. All built-in wallpapers work immediately and offline.
+
+The three video scenes use AI-generated artwork and video. Each monitor plays
+its own full-frame movie loop through the native macOS video player. Artwork was
+created with OpenAI image generation; videos were generated locally with
+[Lightricks LTX-Video](https://huggingface.co/Lightricks/LTX-Video). Willow Pond's
+woodland-water direction was inspired by [Daniil Ch.'s Quack demo](https://x.com/daniildesigns/status/2122798311279108476).
+
+![Willow Pond video preview](images/willow-pond.gif)
 
 Click **Start screensaver** to cover every connected display and prevent idle
 sleep. Move the mouse or press a key to return to your desktop; the awake session
